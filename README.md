@@ -1,2 +1,2 @@
 # SmartICT-testausmenetelmät
-SmartICT Testausmenetelmät-kurssin tehtäviä. 2020.
+SmartICT Testausmenetelmät-kurssin tehtäviä. 2021.
